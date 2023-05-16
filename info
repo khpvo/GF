@@ -1,0 +1,17 @@
+
+Update for March 2023
+
+Google Page Speed Insights updated instance of Lighthouse to version 10.x and this event changes User-Agents:
+
+For mobile:
+
+Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36"
+
+For Desktop:
+
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+
+Passing Chrome-Lighthouse string has been stopped.
+
+More details is here: https://github.com/GoogleChrome/lighthouse/pull/14384
+
